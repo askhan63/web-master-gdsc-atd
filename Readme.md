@@ -32,7 +32,7 @@ Participants will have the opportunity to demonstrate their proficiency in web d
 - Certificates of participation will be awarded.
 
 ## Contact Information
-For any queries, please contact us at:
+For any queries, please contact us at: 
 - Email: [contact@gdscatd.com](mailto:dsc.cuiatd@gmail.com )
 - Twitter: [@GDSCAtd](https://twitter.com/GDSCAtd)
 
